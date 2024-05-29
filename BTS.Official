@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTS Official Website - Music, Videos, and Latest Updates</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>BTS</h1>
+
+    <p>BTS, also known as the Bangtan Boys, is a South Korean boy band formed by Big Hit Entertainment in 2013. The
+        group
+        consists of seven members: RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook. BTS is renowned for their diverse
+        musical
+        style, blending K-pop, hip-hop, R&B, and EDM, and for their socially conscious lyrics addressing topics such as
+        mental health, self-love, and the pressures of youth. Their global influence is marked by record-breaking
+        albums,
+        sold-out stadium tours, and a massive, dedicated fanbase known as ARMY. BTS has also made significant
+        contributions
+        to popular culture, fashion, and philanthropy, becoming a symbol of positive change and global unity.</p>
+        <div class="container">
+            <div class="column">
+                <h2>Artist Name</h2>
+                <ul id="name">
+                    <li>Kim Namjoon</li>
+                    <li>Kim Seokjin</li>
+                    <li>Jung Ho-seok</li>
+                    <li>Min Yoongi</li>
+                    <li>Park Jimin</li>
+                    <li>Kim Taehyung</li>
+                    <li>Jeon Jungkook</li>
+                </ul>
+            </div>
+            <div class="column">
+                <h2>Top 6 Favorite Songs</h2>
+                <ol id="song">
+                    <li>Still With You</li>
+                    <li>Magic Shop</li>
+                    <li>We Are Bullet Proof</li>
+                    <li>Mic Drop</li>
+                    <li>Dreamers</li>
+                    <li>Life Goes On</li>
+                </ol>
+            </div>
+        </div>
+
+    <img src="https://images1.wionews.com/images/wion/900x1600/2023/6/2/1685720394283_WhatsAppImage20230602at9.08.54PM1.jpeg"
+        .>
+        <article>
+            <h2>Music and Chart Success</h2>
+            <h3># Billboard Charts</h3>
+            <p>BTS has achieved multiple No. 1 albums on the Billboard 200 chart...</p>
+        
+            <h3># Grammy Awards</h3>
+            <p>BTS has received multiple Grammy nominations...</p>
+        
+            <h3># Other Awards</h3>
+            <p>BTS has won numerous awards at major music award shows...</p>
+        
+            <h2>Record-Breaking Accomplishments</h2>
+            <h3># YouTube Records</h3>
+            <p>BTS has set multiple records on YouTube for the most-viewed music video in 24 hours...</p>
+        
+            <h3># Guinness World Records</h3>
+            <p>BTS holds several Guinness World Records...</p>
+        
+            <h2>Global Impact and Cultural Influence</h2>
+            <h3># UNICEF Partnership</h3>
+            <p>BTS partnered with UNICEF for the "Love Myself" campaign...</p>
+        
+            <h3># Speeches at the United Nations</h3>
+            <p>BTS has spoken at the UN General Assembly multiple times...</p>
+        
+            <h3># Cultural Ambassadors</h3>
+            <p>BTS has been recognized for their contributions to Korean culture and global influence...</p>
+        
+            <h2>Economic Impact</h2>
+            <h3># Economic Contributions</h3>
+            <p>BTS has had a substantial impact on the South Korean economy...</p>
+        
+            <h2>Tours and Performances</h2>
+            <h3># Sold-Out Tours</h3>
+            <p>BTS's world tours, such as the "Love Yourself" and "Speak Yourself" tours...</p>
+        
+            <h3># Virtual Concerts</h3>
+            <p>During the COVID-19 pandemic, BTS adapted by holding virtual concerts...</p>
+        
+            <h2>Social Media and Online Presence</h2>
+            <h3># Massive Online Following</h3>
+            <p>BTS has a significant presence on social media platforms...</p>
+        
+            <p>BTS’s success is a testament to their talent, hard work, and the dedication of their global fanbase...</p>
+        </article>
+    <footer> You can visit the official BTS website through Big Hit Music at <a
+            href="https://ibighit.com/bts/eng/">ibighit.com/bts</a>. This site offers comprehensive information about
+        the
+        band, including their latest music releases, schedules, and more.</footer>
+
+
+</body>
+
+</html>
