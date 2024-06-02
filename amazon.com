@@ -1,5 +1,3 @@
-........CSS......
-
 * {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -56,7 +54,7 @@
 .nav-search {
     display: flex;
     background-color: pink;
-    width: 620px;
+    width: 70%;
     height: 40px;
     border-radius: 4px;
     justify-content: space-evenly;
